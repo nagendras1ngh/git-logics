@@ -19,4 +19,3 @@ f
 4
 git
 git basics
-git branch
