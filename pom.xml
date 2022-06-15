@@ -6,7 +6,7 @@
 
     <groupId>com.myapp</groupId>
     <artifactId>myapp</artifactId>
-    <version>1.0.0.5</version>
+    <version>1.0.5</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
