@@ -1,7 +1,7 @@
 pipeline {
          agent any
          stages{
-            stage('welcome'){
+            stage('git checkout'){
                steps{
                     echo " welcome to jenkins " 
           }
