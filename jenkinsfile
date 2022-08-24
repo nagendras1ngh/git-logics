@@ -9,10 +9,10 @@ pipeline {
   }
   post {
   success {
-    This is success block.
+    echo "This is success block..."
   }
   failure {
-    This is failure block.
+    echo "This is failure block..."
     }
   }
 }
