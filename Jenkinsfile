@@ -3,8 +3,7 @@ pipeline {
   stages {
     stage('Maven Build') {
       steps {
-        sh 'echo Jenkinsfile demo'
-        sh 'hari'
+        sh 'echo Jenkinsfile demo..'
       }
     }
   }
